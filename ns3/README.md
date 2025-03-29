@@ -8,12 +8,4 @@
 > zipf.cc create zipf distribution \
 > sfc_tag define the byteTag \
 
-## How to run
-> To run CFC, \
-> run sh runmy.sh \
 
-> To run fix, \
-> run sh fc.sh \
-
-> To run Hist
-> run sh hist.sh \
