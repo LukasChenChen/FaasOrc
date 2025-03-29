@@ -1,0 +1,546 @@
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 5, link_delay 0.000000, runtime is 4.478207, total_delay 4.478207
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2, link_delay 0.000000, runtime is 4.918401, total_delay 4.918401
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 3, link_delay 0.000000, runtime is 5.127088, total_delay 5.127088
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 1, link_delay 0.000000, runtime is 6.292881, total_delay 6.292881
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 4, link_delay 0.000000, runtime is 7.051956, total_delay 7.051956
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 12, link_delay 0.000000, runtime is 7.749536, total_delay 7.749536
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 0, link_delay 0.000000, runtime is 8.052245, total_delay 8.052245
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 14, link_delay 0.000000, runtime is 8.043376, total_delay 8.043376
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2899, link_delay 0.000000, runtime is 8.060546, total_delay 8.060546
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2029, link_delay 0.000000, runtime is 8.072925, total_delay 8.072925
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 6, link_delay 0.000000, runtime is 8.103377, total_delay 8.103377
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 8, link_delay 0.000000, runtime is 8.138596, total_delay 8.138596
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2028, link_delay 0.000000, runtime is 8.122793, total_delay 8.122793
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2898, link_delay 0.000000, runtime is 8.144629, total_delay 8.144629
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 9, link_delay 0.000000, runtime is 8.171817, total_delay 8.171817
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 10, link_delay 0.000000, runtime is 8.212357, total_delay 8.212357
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 11, link_delay 0.000000, runtime is 8.279175, total_delay 8.279175
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 7, link_delay 0.000000, runtime is 8.448642, total_delay 8.448642
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 13, link_delay 0.000000, runtime is 8.485729, total_delay 8.485729
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.655745 km
+WARNING:root:Request 2031, link_delay 0.000004, runtime is 0.145287, total_delay 0.145291
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2030, link_delay 0.000000, runtime is 0.151034, total_delay 0.151034
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 15, link_delay 0.000000, runtime is 0.201400, total_delay 0.201400
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 16, link_delay 0.000010, runtime is 0.216506, total_delay 0.216516
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2900, link_delay 0.000000, runtime is 2.617657, total_delay 2.617657
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2901, link_delay 0.000000, runtime is 2.946380, total_delay 2.946380
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 20, link_delay 0.000000, runtime is 3.585361, total_delay 3.585361
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 17, link_delay 0.000000, runtime is 4.115943, total_delay 4.115943
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 19, link_delay 0.000000, runtime is 4.117059, total_delay 4.117059
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 21, link_delay 0.000000, runtime is 4.601490, total_delay 4.601490
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 18, link_delay 0.000000, runtime is 4.681408, total_delay 4.681408
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2032, link_delay 0.000000, runtime is 6.187665, total_delay 6.187665
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 22, link_delay 0.000000, runtime is 0.114754, total_delay 0.114754
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 23, link_delay 0.000010, runtime is 0.123731, total_delay 0.123741
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.655745 km
+WARNING:root:Request 2034, link_delay 0.000004, runtime is 0.118833, total_delay 0.118838
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2033, link_delay 0.000000, runtime is 0.124055, total_delay 0.124055
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2902, link_delay 0.000000, runtime is 2.119124, total_delay 2.119124
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2903, link_delay 0.000000, runtime is 2.586488, total_delay 2.586488
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 27, link_delay 0.000000, runtime is 3.504493, total_delay 3.504493
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 25, link_delay 0.000000, runtime is 3.947469, total_delay 3.947469
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 26, link_delay 0.000000, runtime is 3.997330, total_delay 3.997330
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 24, link_delay 0.000000, runtime is 4.559531, total_delay 4.559531
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 28, link_delay 0.000000, runtime is 5.042231, total_delay 5.042231
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2036, link_delay 0.000000, runtime is 0.193383, total_delay 0.193383
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 30, link_delay 0.000010, runtime is 0.210814, total_delay 0.210825
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 29, link_delay 0.000000, runtime is 0.214483, total_delay 0.214483
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.494114 km
+WARNING:root:Request 2037, link_delay 0.000003, runtime is 0.231880, total_delay 0.231883
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2904, link_delay 0.000000, runtime is 2.308947, total_delay 2.308947
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2905, link_delay 0.000000, runtime is 2.894670, total_delay 2.894670
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 31, link_delay 0.000000, runtime is 2.947147, total_delay 2.947147
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 32, link_delay 0.000000, runtime is 3.948682, total_delay 3.948682
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 33, link_delay 0.000000, runtime is 4.087610, total_delay 4.087610
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 35, link_delay 0.000000, runtime is 4.550677, total_delay 4.550677
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 34, link_delay 0.000000, runtime is 4.615345, total_delay 4.615345
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 36, link_delay 0.000000, runtime is 0.117172, total_delay 0.117172
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 37, link_delay 0.000010, runtime is 0.150861, total_delay 0.150871
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2039, link_delay 0.000000, runtime is 0.172764, total_delay 0.172764
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2906, link_delay 0.000000, runtime is 2.208556, total_delay 2.208556
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 38, link_delay 0.000000, runtime is 2.880596, total_delay 2.880596
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2907, link_delay 0.000000, runtime is 2.954118, total_delay 2.954118
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 41, link_delay 0.000000, runtime is 3.559944, total_delay 3.559944
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 39, link_delay 0.000000, runtime is 4.066201, total_delay 4.066201
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 40, link_delay 0.000000, runtime is 4.583051, total_delay 4.583051
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 42, link_delay 0.000000, runtime is 5.092060, total_delay 5.092060
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 44, link_delay 0.000010, runtime is 0.166829, total_delay 0.166839
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2042, link_delay 0.000000, runtime is 0.162802, total_delay 0.162802
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 43, link_delay 0.000000, runtime is 0.203253, total_delay 0.203253
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2908, link_delay 0.000000, runtime is 2.173587, total_delay 2.173587
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 47, link_delay 0.000000, runtime is 3.558779, total_delay 3.558779
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 48, link_delay 0.000000, runtime is 3.589069, total_delay 3.589069
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 45, link_delay 0.000000, runtime is 4.144257, total_delay 4.144257
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 49, link_delay 0.000000, runtime is 4.701674, total_delay 4.701674
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 46, link_delay 0.000000, runtime is 5.205741, total_delay 5.205741
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2045, link_delay 0.000000, runtime is 0.062715, total_delay 0.062715
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 51, link_delay 0.000010, runtime is 0.072936, total_delay 0.072946
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 50, link_delay 0.000000, runtime is 0.078513, total_delay 0.078513
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2910, link_delay 0.000000, runtime is 1.957311, total_delay 1.957311
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 58, link_delay 0.000010, runtime is 0.066303, total_delay 0.066313
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2048, link_delay 0.000000, runtime is 0.067685, total_delay 0.067685
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 57, link_delay 0.000000, runtime is 0.078800, total_delay 0.078800
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2912, link_delay 0.000000, runtime is 1.837186, total_delay 1.837186
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 65, link_delay 0.000010, runtime is 0.061952, total_delay 0.061962
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2051, link_delay 0.000000, runtime is 0.058545, total_delay 0.058545
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 64, link_delay 0.000000, runtime is 0.077181, total_delay 0.077181
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2914, link_delay 0.000000, runtime is 1.845609, total_delay 1.845609
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 72, link_delay 0.000010, runtime is 0.061218, total_delay 0.061228
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 71, link_delay 0.000000, runtime is 0.068692, total_delay 0.068692
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2054, link_delay 0.000000, runtime is 0.063490, total_delay 0.063490
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2916, link_delay 0.000000, runtime is 1.869261, total_delay 1.869261
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2057, link_delay 0.000000, runtime is 0.067915, total_delay 0.067915
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 79, link_delay 0.000010, runtime is 0.083520, total_delay 0.083530
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 78, link_delay 0.000000, runtime is 0.087474, total_delay 0.087474
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2918, link_delay 0.000000, runtime is 1.820391, total_delay 1.820391
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 85, link_delay 0.000000, runtime is 0.073047, total_delay 0.073047
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 86, link_delay 0.000010, runtime is 0.076196, total_delay 0.076206
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2060, link_delay 0.000000, runtime is 0.069848, total_delay 0.069848
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2920, link_delay 0.000000, runtime is 1.877500, total_delay 1.877500
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 92, link_delay 0.000000, runtime is 0.066036, total_delay 0.066036
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 93, link_delay 0.000010, runtime is 0.066613, total_delay 0.066623
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2063, link_delay 0.000000, runtime is 0.090376, total_delay 0.090376
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2922, link_delay 0.000000, runtime is 1.812117, total_delay 1.812117
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 99, link_delay 0.000000, runtime is 0.060798, total_delay 0.060798
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2066, link_delay 0.000000, runtime is 0.051713, total_delay 0.051713
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 100, link_delay 0.000010, runtime is 0.065625, total_delay 0.065635
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2924, link_delay 0.000000, runtime is 1.763925, total_delay 1.763925
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 106, link_delay 0.000000, runtime is 0.062142, total_delay 0.062142
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 107, link_delay 0.000010, runtime is 0.066422, total_delay 0.066432
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2069, link_delay 0.000000, runtime is 0.065274, total_delay 0.065274
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2927, link_delay 0.000000, runtime is 1.778959, total_delay 1.778959
+WARNING:root:Get reponse
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 114, link_delay 0.000010, runtime is 0.063552, total_delay 0.063562
+WARNING:root:Request 2072, link_delay 0.000000, runtime is 0.056929, total_delay 0.056929
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 113, link_delay 0.000000, runtime is 0.080223, total_delay 0.080223
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2930, link_delay 0.000000, runtime is 1.825028, total_delay 1.825028
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 121, link_delay 0.000010, runtime is 0.126723, total_delay 0.126733
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 120, link_delay 0.000000, runtime is 0.131332, total_delay 0.131332
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2075, link_delay 0.000000, runtime is 0.162623, total_delay 0.162623
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2078, link_delay 0.000000, runtime is 3.917322, total_delay 3.917322
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2932, link_delay 0.000000, runtime is 5.229735, total_delay 5.229735
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 128, link_delay 0.000010, runtime is 0.071039, total_delay 0.071049
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2080, link_delay 0.000007, runtime is 0.068398, total_delay 0.068405
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2079, link_delay 0.000000, runtime is 0.073647, total_delay 0.073647
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 127, link_delay 0.000000, runtime is 0.090703, total_delay 0.090703
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2934, link_delay 0.000000, runtime is 1.796144, total_delay 1.796144
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 134, link_delay 0.000000, runtime is 0.064674, total_delay 0.064674
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2083, link_delay 0.000007, runtime is 0.049572, total_delay 0.049579
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 135, link_delay 0.000010, runtime is 0.075426, total_delay 0.075436
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2082, link_delay 0.000000, runtime is 0.066913, total_delay 0.066913
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2936, link_delay 0.000000, runtime is 1.833009, total_delay 1.833009
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 141, link_delay 0.000000, runtime is 0.080754, total_delay 0.080754
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 142, link_delay 0.000010, runtime is 0.087559, total_delay 0.087569
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2086, link_delay 0.000007, runtime is 0.079599, total_delay 0.079606
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2085, link_delay 0.000000, runtime is 0.083009, total_delay 0.083009
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2938, link_delay 0.000000, runtime is 1.910212, total_delay 1.910212
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 149, link_delay 0.000010, runtime is 0.061065, total_delay 0.061075
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 148, link_delay 0.000000, runtime is 0.064172, total_delay 0.064172
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2088, link_delay 0.000000, runtime is 0.055997, total_delay 0.055997
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2089, link_delay 0.000007, runtime is 0.055304, total_delay 0.055311
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2940, link_delay 0.000000, runtime is 1.959419, total_delay 1.959419
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 156, link_delay 0.000010, runtime is 0.063585, total_delay 0.063595
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2091, link_delay 0.000000, runtime is 0.058483, total_delay 0.058483
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2092, link_delay 0.000007, runtime is 0.060130, total_delay 0.060137
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 155, link_delay 0.000000, runtime is 0.084103, total_delay 0.084103
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2942, link_delay 0.000000, runtime is 1.664565, total_delay 1.664565
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 163, link_delay 0.000010, runtime is 0.061798, total_delay 0.061808
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2095, link_delay 0.000007, runtime is 0.053268, total_delay 0.053275
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2094, link_delay 0.000000, runtime is 0.059256, total_delay 0.059256
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 162, link_delay 0.000000, runtime is 0.072586, total_delay 0.072586
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2944, link_delay 0.000000, runtime is 1.848315, total_delay 1.848315
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2098, link_delay 0.000007, runtime is 0.053385, total_delay 0.053392
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 170, link_delay 0.000010, runtime is 0.071893, total_delay 0.071903
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2097, link_delay 0.000000, runtime is 0.066658, total_delay 0.066658
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 169, link_delay 0.000000, runtime is 0.080850, total_delay 0.080850
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2946, link_delay 0.000000, runtime is 1.851307, total_delay 1.851307
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 177, link_delay 0.000010, runtime is 0.067687, total_delay 0.067697
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 176, link_delay 0.000000, runtime is 0.070806, total_delay 0.070806
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2101, link_delay 0.000007, runtime is 0.064337, total_delay 0.064343
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2100, link_delay 0.000000, runtime is 0.073489, total_delay 0.073489
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2948, link_delay 0.000000, runtime is 1.855399, total_delay 1.855399
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 184, link_delay 0.000010, runtime is 0.060560, total_delay 0.060570
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 183, link_delay 0.000000, runtime is 0.073710, total_delay 0.073710
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2104, link_delay 0.000007, runtime is 0.060935, total_delay 0.060942
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2103, link_delay 0.000000, runtime is 0.063638, total_delay 0.063638
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2950, link_delay 0.000000, runtime is 1.922863, total_delay 1.922863
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 191, link_delay 0.000010, runtime is 0.055669, total_delay 0.055679
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 190, link_delay 0.000000, runtime is 0.058917, total_delay 0.058917
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2107, link_delay 0.000007, runtime is 0.045649, total_delay 0.045656
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2106, link_delay 0.000000, runtime is 0.056185, total_delay 0.056185
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2952, link_delay 0.000000, runtime is 1.832344, total_delay 1.832344
+WARNING:root:Get reponse
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 197, link_delay 0.000000, runtime is 0.070180, total_delay 0.070180
+WARNING:root:Request 198, link_delay 0.000010, runtime is 0.068539, total_delay 0.068549
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2109, link_delay 0.000000, runtime is 0.062076, total_delay 0.062076
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2110, link_delay 0.000007, runtime is 0.061065, total_delay 0.061072
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2954, link_delay 0.000000, runtime is 1.808320, total_delay 1.808320
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2113, link_delay 0.000007, runtime is 0.052793, total_delay 0.052800
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 205, link_delay 0.000010, runtime is 0.064651, total_delay 0.064661
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2112, link_delay 0.000000, runtime is 0.061249, total_delay 0.061249
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 204, link_delay 0.000000, runtime is 0.078547, total_delay 0.078547
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2956, link_delay 0.000000, runtime is 1.807661, total_delay 1.807661
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 211, link_delay 0.000000, runtime is 0.081634, total_delay 0.081634
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.502911 km
+WARNING:root:Request 212, link_delay 0.000010, runtime is 0.082426, total_delay 0.082436
+WARNING:root:Get reponse
+WARNING:root:The distance is 1.037771 km
+WARNING:root:Request 2116, link_delay 0.000007, runtime is 0.090048, total_delay 0.090055
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2115, link_delay 0.000000, runtime is 0.095995, total_delay 0.095995
+WARNING:root:Get reponse
+WARNING:root:The distance is 0.000000 km
+WARNING:root:Request 2958, link_delay 0.000000, runtime is 1.789237, total_delay 1.789237

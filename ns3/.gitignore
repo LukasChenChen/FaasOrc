@@ -1,0 +1,33 @@
+#ignore everything
+*
+
+scratch/sfco_result.*
+scratch/dis_result.*
+scratch/*.csv
+scratch/*.txt
+scratch/*.tr
+scratch/*csv*
+scratch/*.xml
+scratch/routing-test.tr
+scratch/*.out
+*.out
+
+
+
+#but not these files
+!src
+!src/mygraph
+!src/mygraph/*
+!src/mygraph/*/*
+!*.sh
+!scratch
+!scratch/*.cc
+!scratch/*request*.txt
+!scratch/*poisson*.csv
+!config
+!config/*
+!.gitignore
+!README.MD
+
+
+

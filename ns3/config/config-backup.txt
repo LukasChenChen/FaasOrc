@@ -1,0 +1,12 @@
+TopoName=config/site-optus-melbCBD.csv
+RequestFile=config/output-origin.csv
+LatencyPara=0.000003336
+MemCap=1000
+NodeNum=10
+Beta=0.5
+SlotNum=30
+ReduFactor=30
+predictRequestFile=config/output-gru.csv
+#prediction or output-gru.csv
+
+
