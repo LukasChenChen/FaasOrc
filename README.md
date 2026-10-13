@@ -1,4 +1,4 @@
 # FaasOrc
 
-> Folder ns contains simulation code \
-> Folder knative contains implementation code in Knative
+> ns3 Folder ns contains simulation code \
+> knative Folder knative contains implementation code in Knative
